@@ -94,13 +94,15 @@ By actively participating in challenges, discussions, and contributions, you not
 Each challenge is contained within its own folder, following this structure:
 
 ```bash
-├── Challenge_01/
-│   ├── Challenge.sol
-│   ├── Solution.sol
-├── Challenge_02/
-│   ├── Challenge.sol
-│   ├── Solution.sol
-└── README.md
+└── Challenges/
+    ├── Challenge_01/
+    │   ├── Challenge.sol
+    │   └── Solution.sol
+    ├── Challenge_02/
+    │   ├── Challenge.sol
+    │   └── Solution.sol
+    └── README.md
+
 ```
 
 
@@ -125,7 +127,7 @@ Each challenge is contained within its own folder, following this structure:
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/solidity-challenges.git
+    git clone https://github.com/passandscore/solidity-challenges.git
     cd solidity-challenges
     ```
 
@@ -134,7 +136,7 @@ Each challenge is contained within its own folder, following this structure:
     Navigate to the desired challenge folder:
 
     ```bash
-    cd Challenge_01
+    cd Challenges/Challenge_01
     ```
 
 3. **Compile and Test the Challenge**
