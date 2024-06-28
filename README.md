@@ -4,7 +4,7 @@
 
 <br/>
 
-# Solidity Challenges Repository
+# Solidity Challenges
 
 Welcome to the Solidity Challenges Repository! 🎉 
 
@@ -194,5 +194,4 @@ You need to copy an array of structs from `calldata` to `storage`. However, dire
 
 **Constraints**:
 - Use Solidity 0.8.x or higher.
-- Ensure gas efficiency and proper data management.
 ```
