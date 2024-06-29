@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract ArrayPopulator {
+contract Challenge2 {
     uint[] public largeArray;
 
     function populateLargeArray(uint length) public {

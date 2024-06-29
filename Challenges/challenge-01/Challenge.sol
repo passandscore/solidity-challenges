@@ -9,7 +9,7 @@ struct MyStruct {
     uint256 amount;
 }
 
-contract Demo {
+contract Challenge1 {
 
     MyStruct[] public structs;
 
