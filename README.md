@@ -157,7 +157,7 @@ By default we do not provide solutions to the challenges. This is to encourage y
 
 2.  **Clone Your Fork**
 
-        - Clone the forked repository to your local machine.
+   - Clone the forked repository to your local machine.
 
         ```bash
         git clone
@@ -165,41 +165,41 @@ By default we do not provide solutions to the challenges. This is to encourage y
 
 3.  **Create a New Branch**
 
-        - Create a new branch to work on your solution.
+   - Create a new branch to work on your solution.
 
-            ```bash
-            git checkout -b solution-01
-            ```
+        ```bash
+        git checkout -b solution-01
+        ```
 
 4.  **Add Your Solution**
 
-        - Add your solution to the challenge folder.
+   - Add your solution to the challenge folder.
 
 5.  **Commit and Push Changes**
 
-        - Commit your changes and push them to your forked repository.
+   - Commit your changes and push them to your forked repository.
 
-            ```bash
-            git add .
-            git commit -m "Add solution to Challenge 01"
-            git push origin solution-01
-            ```
+        ```bash
+        git add .
+        git commit -m "Add solution to Challenge 01"
+        git push origin solution-01
+        ```
 
 6.  **Open a Pull Request**
-        - Open a pull request from your forked repository to this repository.
-        - Provide a detailed description of your solution in the pull request.
+    - Open a pull request from your forked repository to this repository.
+    - Provide a detailed description of your solution in the pull request.
 
 7.  **Discuss and Collaborate**
-        - Engage in discussions with other contributors and community members to improve your solution.
-        - Collaborate on enhancing the solution further.
+    - Engage in discussions with other contributors and community members to improve your solution.
+    - Collaborate on enhancing the solution further.
 
 8.  **Review and Merge**
-        - Your pull request will be reviewed by the repository maintainers.
-        - If your solution is accepted, it will be merged into the repository.
+    - Your pull request will be reviewed by the repository maintainers.
+    - If your solution is accepted, it will be merged into the repository.
 
 9.  **Celebrate!**
-        - Congratulations on contributing to the Solidity Challenges repository!
-        - Share your achievement with the community and encourage others to participate.
+    - Congratulations on contributing to the Solidity Challenges repository!
+    - Share your achievement with the community and encourage others to participate.
 
 
 
@@ -209,7 +209,7 @@ We encourage the community to contribute by submitting new challenges. Follow th
 
 1. **Create a New Folder**
 
-   Create a new folder named `New_Challenge`.
+    - Create a new folder named `New_Challenge`.
 
    ```bash
    mkdir New_Challenge
@@ -218,22 +218,22 @@ We encourage the community to contribute by submitting new challenges. Follow th
 
 2. **Add Challenge File**
 
-   - Create a `Challenge.sol` file with the challenge.
+     - Create a `Challenge.sol` file with the challenge.
 
 3. **Write a Description**
 
-   Add a `README.md` file within your challenge folder describing the challenge, including:
-
-   - **Problem Statement**: What needs to be solved.
-   - **Constraints**: Any specific constraints or requirements.
-   - **Hints**: Optional hints to guide others.
+     - Add a `README.md` file within your challenge folder describing the challenge, including:
+  
+     - **Problem Statement**: What needs to be solved.
+     - **Constraints**: Any specific constraints or requirements.
+     - **Hints**: Optional hints to guide others.
 
 4. **Open a Pull Request**
 
-   - Fork this repository.
-   - Create a new branch from `main`.
-   - Add your challenge and solution.
-   - Open a pull request to merge your changes.
+     - Fork this repository.
+     - Create a new branch from `main`.
+     - Add your challenge and solution.
+     - Open a pull request to merge your changes.
 
 ### Example Challenge Description
 
