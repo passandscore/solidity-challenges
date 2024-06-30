@@ -21,12 +21,12 @@ This repository is designed to help Solidity developers sharpen their skills thr
 ---
 
 <p align="center">
-  <a href="https://github.com/yourusername/solidity-challenges">
-    <img src="https://img.shields.io/github/stars/yourusername/solidity-challenges?style=social" alt="GitHub stars">
+  <a href="https://github.com/passandscore/solidity-challenges">
+    <img src="https://img.shields.io/github/stars/passandscore/solidity-challenges?style=social" alt="GitHub stars">
   </a>
   <span>&nbsp;&nbsp;</span>
-  <a href="https://github.com/yourusername/solidity-challenges">
-    <img src="https://img.shields.io/github/forks/yourusername/solidity-challenges?style=social" alt="GitHub forks">
+  <a href="https://github.com/passandscore/solidity-challenges">
+    <img src="https://img.shields.io/github/forks/passandscore/solidity-challenges?style=social" alt="GitHub forks">
   </a>
 </p>
 
