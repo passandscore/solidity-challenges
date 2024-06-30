@@ -1,124 +1,112 @@
-<!-- <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/512px-Ethereum_logo_2014.svg.png" alt="Ethereum Logo" width="100"/>
-</p> -->
 <p align="center">
   <img src="assets/repo-social-cover.png" alt="Solidity Challenges Repository"/>
 </p>
 
-<br/>
-
-
-## Welcome to the Solidity Challenges Repository! 🎉
-
-This repository is designed to help Solidity developers sharpen their skills through practical challenges. Each challenge focuses on a specific aspect of Solidity and is paired with a discussion thread where you can share your solutions, learn from others, and engage with the community.
-
-<br/>
-
-> There's just one rule here: avoid copying directly from ChatGPT. While it's an invaluable tool, let's strive for more authenticity in our responses.
+<div align="center">
+    <img src="https://img.shields.io/github/stars/passandscore/solidity-challenges?style=social" alt="GitHub stars" style="height:25px;">
+  <span style="padding: 0 5px;"></span>
+    <img src="https://img.shields.io/github/watchers/passandscore/solidity-challenges?style=social" alt="GitHub watchers" style="height:25px;">
+  <span style="padding: 0 5px;"></span>
+    <img src="https://img.shields.io/github/forks/passandscore/solidity-challenges?style=social" alt="GitHub forks" style="height:25px;">
+</div>
 
 <br/>
 
----
+## Welcome Solidity Developers & Researchers! 🎉
 
-<p align="center">
-  <a href="https://github.com/passandscore/solidity-challenges">
-    <img src="https://img.shields.io/github/stars/passandscore/solidity-challenges?style=social" alt="GitHub stars">
-  </a>
-  <span>&nbsp;&nbsp;</span>
-  <a href="https://github.com/passandscore/solidity-challenges">
-    <img src="https://img.shields.io/github/forks/passandscore/solidity-challenges?style=social" alt="GitHub forks">
-  </a>
-</p>
+This repository is designed to help our skills through practical challenges. Each challenge focuses on a specific aspect of Solidity and is paired with a discussion thread where you can share your solutions, learn from others, and engage with the community.
+
 
 ---
 
-## 📣 How to Stay Informed and Support Us
+<br/>
 
-### ⭐ Star the Repository
+>**⛔️ Important Note**: Avoid copying directly from ChatGPT. While it's an invaluable tool, let's strive for more authenticity in our responses.
 
-- Show your support and help us reach more developers by starring this repository. Your stars make a huge difference!
+<br/>
 
-### 👀 Watch the Repository
 
-- Stay updated with all the latest challenges, discussions, and updates by watching the repository. This will notify you of any new activities or changes.
+## 📋 Table of Contents
 
-### 💬 Join Discussions
+1. [How it works](#how-it-works)
+2. [Getting the Most Out of This Repository](#getting-the-most-out-of-this-repository)
+3. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Running the Challenges](#running-the-challenges)
+   - [Providing Solutions](#providing-solutions)
+   - [Submitting Your Own Challenge](#submitting-your-own-challenge)
+     - [Example Challenge Description](#example-challenge-description)
+4. [Repository Structure](#repository-structure)
+5. [How to Stay Informed and Support Us](#how-to-stay-informed-and-support-us)
+6. [Join the Community](#join-the-community)
 
-- Engage in discussions about challenges, solutions, and Solidity development in our [Discussions](https://github.com/passandscore/solidity-challenges/discussions) section. Share your insights, ask questions, and collaborate with the community!
+<br/>
+<br/>
 
----
 
-## 🚀 Getting the Most Out of This Repository
 
-### 📚 Learning
 
+
+## How it Works
+
+Attempt the challenge in the `Challenge.sol` file.
+
+- Share your solution in the [Discussions]("https://github.com/passandscore/solidity-challenges/discussions") section.
+- Engage with the community and learn from others.
+- Official solutions will be revealed in subsequent challenges.
+
+<br/>
+<br/>
+
+## Getting the Most Out of This Repository
+
+<details >
+<summary >📚 Learning</summary>
+
+<p >
 This repository is a valuable resource for learning Solidity through practical challenges and solutions. Here’s how you can maximize your learning experience:
+</p>
+<ul >
+    <li><b>Explore Challenges:</b> Dive into each challenge folder (Challenge_X) to find specific problems and scenarios related to Solidity programming.</li>
+    <li><b>Understand Problem Statements:</b> Read each Challenge.sol file carefully to understand the problem statement and what needs to be achieved.</li>
+    <li><b>Compare Solutions:</b> Drop your solution in the discussions and compare it with others. This will help you understand different approaches and best practices.</li>
+    <li><b>Experiment and Test:</b> Use tools like Remix IDE or a local development environment to test your solutions and see how Solidity code behaves in different scenarios.</li>
+    <li><b>Engage in Discussions:</b> Join discussions in the Discussions tab to ask questions, share insights, and learn from other developers’ experiences.</li>
+</ul>
 
-- Explore Challenges: Dive into each challenge folder (Challenge_X) to find specific problems and scenarios related to Solidity programming.
+</details>
 
-- Understand Problem Statements: Read each Challenge.sol file carefully to understand the problem statement and what needs to be achieved.
+<details >
+<summary >🤝 Networking</summary>
 
-- Compare Solutions: Drop your solution in the discussions and compare it with others. This will help you understand different approaches and best practices.
-
-- Experiment and Test: Use tools like Remix IDE or a local development environment to test your solutions and see how Solidity code behaves in different scenarios.
-
-- Engage in Discussions: Join discussions in the Discussions tab to ask questions, share insights, and learn from other developers’ experiences.
-
-### 🤝 Networking
-
+<p >
 Building connections within the Solidity developer community can lead to valuable opportunities and collaborations:
+</p>
+<ul >
+    <li><b>Participate Actively:</b> Engage with others in discussions. Share your knowledge, ask for advice, and connect with developers who share your interests.</li>
+    <li><b>Follow Contributors:</b> Follow active contributors to stay updated on their projects and contributions.</li>
+    <li><b>Collaborate on Challenges:</b> Consider working together on challenges with others. Collaborative problem-solving can deepen understanding and foster new relationships.</li>
+</ul>
+</details>
 
-- Participate Actively: Engage with others in discussions. Share your knowledge, ask for advice, and connect with developers who share your interests.
+<details >
+<summary >🌍 Contribute to Open Source</summary>
 
-- Follow Contributors: Follow active contributors to stay updated on their projects and contributions.
-
-- Collaborate on Challenges: Consider working together on challenges with others. Collaborative problem-solving can deepen understanding and foster new relationships.
-
-### 🌍 Contribute to Open Source
-
+<p >
 Contributing to open source is a great way to enhance your skills and give back to the community:
+</p>
+<ul >
+    <li><b>Submit New Challenges:</b> Have a challenge idea? Follow the steps outlined in the Submitting Your Own Challenge section to add new challenges to this repository.</li>
+    <li><b>Submit Solutions:</b> If you have a unique or optimized solution to a challenge, share it with the community by submitting a pull request.</li>
+    <li><b>Review Pull Requests:</b> Help review and provide constructive feedback on pull requests from other contributors.</li>
+    <li><b>Spread the Word:</b> Share your experiences and challenges from this repository on social media or developer forums to encourage others to join and contribute.</li>
+</ul>
+</details>
 
-- Submit New Challenges: Have a challenge idea? Follow the steps outlined in the Submitting Your Own Challenge section to add new challenges to this repository.
+<br/>
+<br/>
 
-- Submit Solutions: If you have a unique or optimized solution to a challenge, share it with the community by submitting a pull request.
-
-- Review Pull Requests: Help review and provide constructive feedback on pull requests from other contributors.
-
-- Spread the Word: Share your experiences and challenges from this repository on social media or developer forums to encourage others to join and contribute.
-
-## 📢 Join the Community
-
-By actively participating in challenges, discussions, and contributions, you not only enhance your Solidity skills but also contribute to a thriving community of developers. Together, we can build a robust repository of knowledge and solutions for Solidity development.
-
----
-
-## 📂 Repository Structure
-
-Each challenge is contained within its own folder, following this structure:
-
-```bash
-└── Challenges/
-    ├── Challenge_01/
-    │   ├── Challenge.sol
-    │   ├── Solution.sol
-    │   └── README.md
-    ├── Challenge_02/
-    │   ├── Challenge.sol
-    │   ├── Solution.sol
-    │   └── README.md
-    └── README.md
-
-```
-
-### Folder Contents
-
-- **Challenge.sol**: The file presenting the challenge. It typically contains a problem statement or partially implemented contract that needs completion or fixing.
-- **Solution.sol**: The solution to a challenge will be revealed in the next challenge. You can submit your solutions in the Discussions section.
-- **README.md**: A description of the challenge, including the problem statement, constraints, and hints to guide you through solving the challenge.
-
----
-
-## 🔥 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -126,6 +114,8 @@ Each challenge is contained within its own folder, following this structure:
   - Solidity using [solc](https://soliditylang.org/installing-solidity.html)
   - Solidity using [Remix IDE](https://remix.ethereum.org/).
 - **Node.js and npm**: For testing and running Solidity code locally using frameworks like Hardhat or Foundry.
+
+<br/>
 
 ### Running the Challenges
 
@@ -152,17 +142,23 @@ Each challenge is contained within its own folder, following this structure:
    - Load the `Challenge.sol` file.
    - Compile and deploy the contract.
 
+<br/>
+<br/>
+
 ## Providing Solutions
 
 After working on a challenge, you can share your solution in the Discussions section. This is a great way to get feedback, learn from others, and engage with the community. We encourage you to provide detailed explanations of your solutions to help others understand your thought process. We will be revealing the official solutions in the subsequent challenges.
 
-## 🛠 Submitting Your Own Challenge
+<br/>
+<br/>
+
+## Submitting Your Own Challenge
 
 We encourage the community to contribute by submitting new challenges. Follow these steps to submit your challenge:
 
 1. **Create a New Folder**
 
-    - Create a new folder named `New_Challenge`.
+   - Create a new folder named `New_Challenge`.
 
    ```bash
    mkdir new_challenge
@@ -171,22 +167,33 @@ We encourage the community to contribute by submitting new challenges. Follow th
 
 2. **Add Challenge File**
 
-     - Create a `Challenge.sol` file with the challenge.
+   - Create a `Challenge.sol` file with the challenge.
 
 3. **Write a Description**
 
-     - Add a `README.md` file within your challenge folder describing the challenge, including:
-  
-     - **Problem Statement**: What needs to be solved.
-     - **Constraints**: Any specific constraints or requirements.
-     - **Hints**: Optional hints to guide others.
+   - Add a `README.md` file within your challenge folder describing the challenge, including:
+
+   - **Problem Statement**: What needs to be solved.
+   - **Constraints**: Any specific constraints or requirements.
+   - **Hints**: Optional hints to guide others.
 
 4. **Open a Pull Request**
 
-     - Fork this repository.
-     - Create a new branch from `main`.
-     - Add your challenge and solution.
-     - Open a pull request to merge your changes.
+   - Fork this repository.
+   - Create a new branch from `main`.
+   - Add your challenge.
+   - Open a pull request to merge your changes.
+
+5. **Discuss Your Challenge**
+
+      - Engage with the community in the Discussions section to discuss your challenge and solutions.
+
+6. **Provide The Solution**
+
+      - After a week, provide the solution to your challenge in a new PR.
+      - If no solution is provided, the maintainers will provide one based on community feedback.
+
+<br/>
 
 ### Example Challenge Description
 
@@ -205,4 +212,59 @@ You need to copy an array of structs from `calldata` to `storage`. However, dire
 
 **Constraints**:
 - Use Solidity 0.8.x or higher.
+
+**Author**: [Your GitHub Username]
+
 ```
+
+
+<br/>
+<br/>
+
+## Repository Structure
+
+Each challenge is contained within its own folder, following this structure:
+
+```bash
+└── Challenges/
+    ├── Challenge_01/
+    │   ├── Challenge.sol
+    │   ├── Solution.sol
+    │   └── README.md
+    ├── Challenge_02/
+    │   ├── Challenge.sol
+    │   ├── Solution.sol
+    │   └── README.md
+    └── README.md
+
+```
+
+---
+
+<br/>
+<br/>
+
+## How to Stay Informed and Support Us
+
+### ⭐️ Star the Repository
+
+- Show your support and help us reach more developers by starring this repository. Your stars make a huge difference!
+
+### 👀 Watch the Repository
+
+- Stay updated with all the latest challenges, discussions, and updates by watching the repository. This will notify you of any new activities or changes.
+
+### 💬 Join Discussions
+
+- Engage in discussions about challenges, solutions, and Solidity development in our [Discussions](https://github.com/passandscore/solidity-challenges/discussions) section. Share your insights, ask questions, and collaborate with the community!
+
+---
+
+<br/>
+<br/>
+
+## Join the Community
+
+By actively participating in challenges, discussions, and contributions, you not only enhance your Solidity skills but also contribute to a thriving community of developers. Together, we can build a robust repository of knowledge and solutions for Solidity development.
+
+---
