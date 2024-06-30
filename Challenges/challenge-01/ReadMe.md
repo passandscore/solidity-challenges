@@ -2,12 +2,12 @@
 
 ## Problem Statement
 
-You need to copy an array of structs from `calldata` to `storage`. However, directly assigning a `calldata` array to a `storage` array results in a compilation error.
+Successfully withdraw all funds from the contract.
 
 **Task**:
-- Refactor the given contract to manually copy the struct array from `calldata` to `storage`.
+- Create a solidity contract that will attack this contract and withdraw all funds from it.
 - Provide your solution and comments in the Discussion for this challenge.
 
 **Constraints**:
 - Use Solidity 0.8.x or higher.
-- Ensure gas efficiency and proper data management.
+

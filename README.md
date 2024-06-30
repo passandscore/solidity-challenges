@@ -1,12 +1,14 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/512px-Ethereum_logo_2014.svg.png" alt="Ethereum Logo" width="100"/>
+</p> -->
+<p align="center">
+  <img src="assets/repo-social-cover.png" alt="Solidity Challenges Repository"/>
 </p>
 
 <br/>
 
-# Solidity Challenges
 
-Welcome to the Solidity Challenges Repository! 🎉
+## Welcome to the Solidity Challenges Repository! 🎉
 
 This repository is designed to help Solidity developers sharpen their skills through practical challenges. Each challenge focuses on a specific aspect of Solidity and is paired with a discussion thread where you can share your solutions, learn from others, and engage with the community.
 
@@ -98,9 +100,11 @@ Each challenge is contained within its own folder, following this structure:
 └── Challenges/
     ├── Challenge_01/
     │   ├── Challenge.sol
+    │   ├── Solution.sol
     │   └── README.md
     ├── Challenge_02/
     │   ├── Challenge.sol
+    │   ├── Solution.sol
     │   └── README.md
     └── README.md
 
@@ -109,6 +113,7 @@ Each challenge is contained within its own folder, following this structure:
 ### Folder Contents
 
 - **Challenge.sol**: The file presenting the challenge. It typically contains a problem statement or partially implemented contract that needs completion or fixing.
+- **Solution.sol**: The solution to a challenge will be revealed in the next challenge. You can submit your solutions in the Discussions section.
 - **README.md**: A description of the challenge, including the problem statement, constraints, and hints to guide you through solving the challenge.
 
 ---
@@ -136,7 +141,7 @@ Each challenge is contained within its own folder, following this structure:
    Navigate to the desired challenge folder:
 
    ```bash
-   cd Challenges/Challenge_01
+   cd challenges/Challenge_01
    ```
 
 3. **Compile and Test the Challenge**
@@ -149,59 +154,7 @@ Each challenge is contained within its own folder, following this structure:
 
 ## Providing Solutions
 
-By default we do not provide solutions to the challenges. This is to encourage you to think critically and solve the challenges on your own. If you have a unique or optimized solution, you can submit a pull request to share it with the community. If the community finds your solution valuable, it will be merged into the repository.
-
-1.  **Fork the Repository**
-
-    - Fork this repository by clicking the "Fork" button on the top right corner of this page.
-
-2.  **Clone Your Fork**
-
-   - Clone the forked repository to your local machine.
-
-        ```bash
-        git clone
-        ```
-
-3.  **Create a New Branch**
-
-   - Create a new branch to work on your solution.
-
-        ```bash
-        git checkout -b solution-01
-        ```
-
-4.  **Add Your Solution**
-
-   - Add your solution to the challenge folder.
-
-5.  **Commit and Push Changes**
-
-   - Commit your changes and push them to your forked repository.
-
-        ```bash
-        git add .
-        git commit -m "Add solution to Challenge 01"
-        git push origin solution-01
-        ```
-
-6.  **Open a Pull Request**
-    - Open a pull request from your forked repository to this repository.
-    - Provide a detailed description of your solution in the pull request.
-
-7.  **Discuss and Collaborate**
-    - Engage in discussions with other contributors and community members to improve your solution.
-    - Collaborate on enhancing the solution further.
-
-8.  **Review and Merge**
-    - Your pull request will be reviewed by the repository maintainers.
-    - If your solution is accepted, it will be merged into the repository.
-
-9.  **Celebrate!**
-    - Congratulations on contributing to the Solidity Challenges repository!
-    - Share your achievement with the community and encourage others to participate.
-
-
+After working on a challenge, you can share your solution in the Discussions section. This is a great way to get feedback, learn from others, and engage with the community. We encourage you to provide detailed explanations of your solutions to help others understand your thought process. We will be revealing the official solutions in the subsequent challenges.
 
 ## 🛠 Submitting Your Own Challenge
 
@@ -212,8 +165,8 @@ We encourage the community to contribute by submitting new challenges. Follow th
     - Create a new folder named `New_Challenge`.
 
    ```bash
-   mkdir New_Challenge
-   cd New_Challenge
+   mkdir new_challenge
+   cd new_challenge
    ```
 
 2. **Add Challenge File**

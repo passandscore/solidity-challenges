@@ -1,19 +1,24 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.25;
 
-enum Status { Active, Inactive }
+contract EtherStore {
+    mapping(address => uint256) public balances;
 
-struct MyStruct {
-    Status status;
-    address addr;
-    uint256 amount;
-}
+    function deposit() public payable {
+        balances[msg.sender] += msg.value;
+    }
 
-contract Challenge1 {
+    function withdraw() public {
+        uint256 userBalance = balances[msg.sender];
+        require(userBalance > 0, "Insufficient balance");
 
-    MyStruct[] public structs;
+        (bool sent, ) = msg.sender.call{value: userBalance}("");
+        require(sent, "Failed to send Ether");
 
-    function setStructs(MyStruct[] calldata _structs) external {
-        structs = _structs;
+        balances[msg.sender] = 0;
+    }
+
+    function getBalance() public view returns (uint256) {
+        return address(this).balance;
     }
 }
