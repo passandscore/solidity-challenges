@@ -147,7 +147,13 @@ Contributing to open source is a great way to enhance your skills and give back 
 
 ## Providing Solutions
 
-After working on a challenge, you can share your solution in the Discussions section. This is a great way to get feedback, learn from others, and engage with the community. We encourage you to provide detailed explanations of your solutions to help others understand your thought process. We will be revealing the official solutions in the subsequent challenges.
+After working on a challenge, you can share your solution in the Discussions section. 
+
+> **Note**: Look for the `Solutions` discussion thread for each challenge to share your solutions.
+
+This is a great way to get feedback, learn from others, and engage with the community. We encourage you to provide detailed explanations of your solutions to help others understand your thought process. 
+
+👉 We will be revealing the official solutions in the subsequent challenges.
 
 <br/>
 <br/>
