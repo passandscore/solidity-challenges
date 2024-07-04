@@ -21,7 +21,9 @@ This repository is designed to help our skills through practical challenges. Eac
 
 <br/>
 
->**⛔️ Important Note**: Avoid copying directly from ChatGPT. While it's an invaluable tool, let's strive for more authenticity in our responses.
+>**⛔️ Important Notes**:
+> - Keep current with the discussions thread for your challenge.
+> - Avoid copying directly from ChatGPT. While it's an invaluable tool, let's strive for more authenticity in our responses.
 
 <br/>
 
