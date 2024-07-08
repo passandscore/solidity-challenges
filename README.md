@@ -27,6 +27,19 @@ This repository is designed to help our skills through practical challenges. Eac
 
 <br/>
 
+---
+## 🏆 Challenges
+
+| #   | Challenge           | Discussion      | Solution           |
+| --- | --------------- | ---------- | -------------- |
+| 2   | [Successfully gridlock this contract with a DoS attack](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-02/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/5)|  |
+| 1   | [Successfully withdraw all funds from the contract](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-1/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/4) | [View](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-01/Solution.sol) |
+
+<br/>
+
+
+
+
 
 ## 📋 Table of Contents
 
@@ -276,3 +289,4 @@ Each challenge is contained within its own folder, following this structure:
 By actively participating in challenges, discussions, and contributions, you not only enhance your Solidity skills but also contribute to a thriving community of developers. Together, we can build a robust repository of knowledge and solutions for Solidity development.
 
 ---
+

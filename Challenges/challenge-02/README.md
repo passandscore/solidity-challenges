@@ -1,17 +1,25 @@
 <p align="center">
-  <img src="./assets/TN-Challenge-1.png" alt="Challenge-1"/>
+  <img src="./assets/TN-Challenge-2.png" alt="Challenge-2"/>
 </p>
 
-# Challenge 01
+
+# Challenge 02
 
 ## Problem Statement
-Successfully withdraw all funds from the contract.
+Successfully gridlock this contract with a DoS attack.
+
 
 **Task**:
 
-- Deploy the given contract in Remix IDE.
-- Fund the contract with some ether.
-- Create a solidity contract that will attack this contract and withdraw all funds from it.
+- Create a solidity contract that will attack this contract and gridlock it.
+- Using Remix: 
+  - 1. Use a dedicated wallet and deploy the `Target` contract.
+  - 2. Deposit 50 ETH using the deposit method.
+  - 3. Verify the contract balance is 50 ETH.
+  - 4. Create and deploy your `Attacker` contract.
+  - 5. Perform your attack.
+  - 6. Verify the contract is gridlocked by trying to withdrawAll from the `Target` contract.
+  - 7. You are successful if the contract is gridlocked and you are unable to withdrawAll. 
 - Provide your solution and comments in the Discussion for this challenge.
 
 **Constraints**:
@@ -23,7 +31,7 @@ Successfully withdraw all funds from the contract.
 ---
 <br/>
 
-<a href="https://remix.ethereum.org/#url=https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-01/Challenge.sol" style="
+<a href="https://remix.ethereum.org/#url=https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-02/Challenge.sol" style="
     display: inline-block;
     padding: 2px 10px;
     font-size: 16px;
@@ -41,4 +49,3 @@ Successfully withdraw all funds from the contract.
 </svg> 
 <span style="margin-left: 10px;">Load in Remix IDE</span>
 </a>
-
