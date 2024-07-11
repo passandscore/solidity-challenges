@@ -33,7 +33,7 @@ This repository is designed to help our skills through practical challenges. Eac
 | #   | Challenge           | Discussion      | Solution           |
 | --- | --------------- | ---------- | -------------- |
 | 2   | [Successfully gridlock this contract with a DoS attack](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-02/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/5)|  |
-| 1   | [Successfully withdraw all funds from the contract](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-1/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/4) | [View](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-01/Solution.sol) |
+| 1   | [Successfully withdraw all funds from the contract](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-01/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/4) | [View](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-01/Solution.sol) |
 
 <br/>
 
