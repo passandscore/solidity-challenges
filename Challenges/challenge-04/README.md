@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/TN-Challenge-4.png" alt="Challenge-2"/>
+</p>
+
 # Challenge 04
 
 ## Problem Statement
