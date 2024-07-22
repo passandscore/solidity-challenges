@@ -11,4 +11,4 @@ install :; forge soldeer update
 
 build:; forge build
 
-test :; forge test --match-path "test/*.t.sol"
+test :; forge test --match-path test/Solution.t.sol
