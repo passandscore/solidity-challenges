@@ -1,66 +1,12 @@
-## Foundry
+## Challenge 06
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+## GOAL
+The goal of this challenge is simple. You are to drain all funds in the contract.
 
-Foundry consists of:
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+## Guide
+As the challenger, you are expected to complete the test in `POC.t.sol` without removing any component, but only adding to it. To drain the contract it is important that the last assertion passes `assertEq(address(challenge).balance, 0);`. Challengers are also allowed to create a seperate attack contract and import it into the test.
 
-## Documentation
+Challengers are not allowed to prank the `host` from the challenge.
 
-https://book.getfoundry.sh/
-
-## Usage
-
-### Build
-
-```shell
-$ forge build
-```
-
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+Provide your solution and comments in the Discussion for this challenge.

@@ -3,7 +3,7 @@ pragma solidity 0.8.20;
 
 import {Address} from "@openzeppelin/contracts/utils/Address.sol";
 
-contract Registration {
+contract Challenge {
     using Address for address payable;
     
     enum Status {
