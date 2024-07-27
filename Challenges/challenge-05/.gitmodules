@@ -4,6 +4,3 @@
 [submodule "Challenges/challenge-06/lib/openzeppelin-contracts"]
 	path = Challenges/challenge-06/lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
-[submodule "Challenges/challenge-05/lib/openzeppelin-contracts"]
-	path = Challenges/challenge-05/lib/openzeppelin-contracts
-	url = https://github.com/OpenZeppelin/openzeppelin-contracts
