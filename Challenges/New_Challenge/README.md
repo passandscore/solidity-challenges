@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-The randomness in this contract that chooses the winner is too deterministic.
+Ensure secure randomness in this lottery contract.
 
 **Task**:
 - Using an outside source like an oracle, create a Solidity contract that uses a better randomness function.
