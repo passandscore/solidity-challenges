@@ -8,7 +8,7 @@
 <div align="center">
     <img src="https://img.shields.io/github/stars/passandscore/solidity-challenges?style=social" alt="GitHub stars" style="height:25px;">
   <span style="padding: 0 5px;"></span>
-    <img src="https://img.shields.io/github/watchers/passandscore/solidity-challenges?style=social" alt="GitHub watchers" style="height:25px;">
+    <img src="https://img.shields.io/github/contributors/passandscore/solidity-challenges?style=social" alt="GitHub contributors" style="height:25px;">
   <span style="padding: 0 5px;"></span>
     <img src="https://img.shields.io/github/forks/passandscore/solidity-challenges?style=social" alt="GitHub forks" style="height:25px;">
 </div>
