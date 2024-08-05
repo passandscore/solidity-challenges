@@ -1,4 +1,9 @@
-# New Challenge
+
+<p align="center">
+  <img src="./assets/TN-Challenge-6.png" alt="Challenge-6"/>
+</p>
+
+# Challenge 06
 
 ## Problem Statement
 

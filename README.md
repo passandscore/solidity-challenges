@@ -35,6 +35,7 @@ This repository is designed to help our skills through practical challenges. Eac
 
 | #   | Challenge           | Discussion      | Solution           |
 | --- | --------------- | ---------- | -------------- |
+| 6   | [Ensure secure randomness in this lottery contract](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-06/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/14)| |
 | 5   | [Drain all registration fees from the contract](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-05/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/11)| |
 | 4   | [Auction Contract Halting Exploit](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-04/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/9)| [View](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-04/Solution.sol)|
 | 3   | [Test should revert when attempting to mint as an unauthorized user](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-03/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/6)| [View](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-03/test/OfficalSolution.t.sol)|
