@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/TN-Challenge-6.png" alt="Challenge-6"/>
+  <img src="./assets/TN-Challenge-7.png" alt="Challenge-7"/>
 </p>
 
 # Challenge 07
@@ -22,6 +22,10 @@ Drain all the Ether from the bank.
 - Challengers are to attack the contract with the `robinHood` address. They should not any additional Foundry cheatcodes into the test.
 
 **Author**: [IzuMan](https://github.com/IzuMan0x)
+
+**Getting Started**:
+- cd into the challenge directory
+- Install the dependencies with `forge install`
 
 **Hints**:
 Run a static analyzer on the contract like slither or aderyn which will point out the contract's flaw.
