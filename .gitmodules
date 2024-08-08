@@ -7,3 +7,6 @@
 [submodule "Challenges/challenge-05/lib/openzeppelin-contracts"]
 	path = Challenges/challenge-05/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "Challenges/challenge-07/lib/forge-std"]
+	path = Challenges/challenge-07/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
