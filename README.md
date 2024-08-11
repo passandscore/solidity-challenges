@@ -28,7 +28,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 | Type  | Challenge           | Author      | Discussion           |
 | --- | --------------- | ---------- | -------------- |
 | Exploit   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md) | [IzuMan](https://github.com/IzuMan0x)|[View](https://github.com/passandscore/solidity-challenges/discussions/categories/exploits) |
-| Solidity   | [Ensure secure randomness in this lottery contract](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-02/README.md) |[codyrhoten](https://github.com/codyrhoten) |[View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity)|
+| Solidity   | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md) |[passandscore](https://github.com/passandscore) |[View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity)|
 
 ## Installation
 
