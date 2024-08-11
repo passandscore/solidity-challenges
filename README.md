@@ -12,17 +12,17 @@
 
 <br/>
 
-## Welcome Solidity Developers & Researchers! 🎉
+## Welcome, Solidity Developers & Researchers! 🎉
 
 Welcome to the Solidity Challenges Repository, a platform for Solidity developers and security researchers. This repository offers a wide range of challenges, from language-specific tasks to exploit-focused scenarios.
 
-## Pick a path
+## Choose Your Path
 
 - **Exploits**: Identify vulnerabilities and exploit the contracts.
 - **Solidity**: Test your knowledge with language-specific challenges.
 
-
 ---
+
 ## 🏆 New Release
 
 | Type  | Challenge           | Author      | Discussion           |
@@ -30,12 +30,11 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 | Exploit   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md) | [IzuMan](https://github.com/IzuMan0x)|[View](https://github.com/passandscore/solidity-challenges/blob/main/Challenges/challenge-06/README.md) | [View](https://github.com/passandscore/solidity-challenges/discussions/14) |
 | Solidity   | [Ensure secure randomness in this lottery contract](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-02/README.md) |[codyrhoten](https://github.com/codyrhoten) |[View](https://github.com/passandscore/solidity-challenges/discussions/14)|
 
-
 ## Installation
 
 1. Clone the repository.
-4. Install [Foundry](https://book.getfoundry.sh/getting-started/installation)
-5. Run `forge build` to set up the project.
+2. Install [Foundry](https://book.getfoundry.sh/getting-started/installation).
+3. Run `forge build` to set up the project.
 
 ## Usage
 
@@ -58,27 +57,27 @@ To solve a challenge:
 
 ## Contributor Guidelines
 
-1. **Add a Exploit Challenge**:
+1. **Add an Exploit Challenge**:
    - Create a new folder under `src/exploits/` and `test/exploits/` named `<challenge-name>`.
-   - Add your challenge's smart contracts in `src/exploitschallenge-name/`.
+   - Add your challenge's smart contracts in `src/exploits/<challenge-name>/`.
    - Create a `README.md` file in `src/exploits/<challenge-name>/` detailing the challenge and constraints.
-   - Write a corresponding Foundry test in `test/exploits/<challenge-name>`.
+   - Write a corresponding Foundry test in `test/exploits/<challenge-name>/`.
 
 2. **Add a Solidity Challenge**:
    - Create a new folder under `src/solidity/` and `test/solidity/` named `<challenge-name>`.
    - Add your challenge's smart contracts in `src/solidity/<challenge-name>/`.
    - Create a `README.md` file in `src/solidity/<challenge-name>/` detailing the challenge and constraints.
-   - Write a corresponding Foundry test in `test/solidity/<challenge-name>`.
+   - Write a corresponding Foundry test in `test/solidity/<challenge-name>/`.
 
-2. **Submit a Solution**:
+3. **Submit a Solution**:
    - Drop your solutions in the discussion section of the challenge.
 
-3. **Improve Existing Challenges**:
+4. **Improve Existing Challenges**:
    - Fork the repository and create a new branch.
    - Make improvements or fixes to the existing challenges.
    - Submit a pull request with details about the changes.
 
-4. **Review and Discuss**:
+5. **Review and Discuss**:
    - Participate in discussions and provide feedback on pull requests.
    - Engage with the community to help refine challenges and solutions.
 
