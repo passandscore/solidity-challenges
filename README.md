@@ -16,27 +16,61 @@
 
 Welcome to the Solidity Challenges Repository, a platform for Solidity developers and security researchers. This repository offers a wide range of challenges, from language-specific tasks to exploit-focused scenarios.
 
-## Choose Your Path
+</br>
+
+## 🦶 Choose Your Path
 
 - **Exploits**: Identify vulnerabilities and exploit the contracts.
 - **Solidity**: Test your knowledge with language-specific challenges.
 
----
+</br>
 
 ## 🏆 New Release
 
-| Type  | Challenge           | Author      | Discussion           |
-| --- | --------------- | ---------- | -------------- |
-| Exploit   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md) | [IzuMan](https://github.com/IzuMan0x)|[View](https://github.com/passandscore/solidity-challenges/discussions/categories/exploits) |
-| Solidity   | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md) |[passandscore](https://github.com/passandscore) |[View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity)|
+| Type     | Challenge                                                                                                                                                                | Author                                          | Discussion                                                                                  |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Exploit  | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)                                                       | [IzuMan](https://github.com/IzuMan0x)           | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/exploits) |
+| Solidity | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
 
-## Installation
+</br>
+
+## ⏪ Previous Challenges
+
+<details>
+<summary>Exploit Challenges</summary>
+
+| #   | Challenge                                                                                                          | Author                                          |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 5   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md) | [IzuMan](https://github.com/IzuMan0x)           |
+| 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                | [X_Drained](https://x.com/X_Drained)            |
+| 3   | [Auction](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/auction/README.md)            | scadamsuab                                      |
+| 2   | [Gridlock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/gridlock/README.md)          | [passandscore](https://github.com/passandscore) |
+| 1   | [Etherstore](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/ether-store/README.md)     | [passandscore](https://github.com/passandscore) |
+
+</details>
+
+<details>
+<summary>Solidity Challenges</summary>
+
+| #   | Challenge                                                                                                                                                                   | Author                                          |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 3   | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md)    | [passandscore](https://github.com/passandscore) |
+| 2   | [Ensure secure randomness in this lottery contract](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-02/README.md)                      | [codyrhoten](https://github.com/codyrhoten)     |
+| 1   | [The test should revert when attempting to mint as an unauthorized user](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-01/README.md) | [passandscore](https://github.com/passandscore) |
+
+</details>
+
+</br>
+
+## 🚀 Installation
 
 1. Clone the repository.
 2. Install [Foundry](https://book.getfoundry.sh/getting-started/installation).
 3. Run `forge build` to set up the project.
 
-## Usage
+</br>
+
+## 🤔 Usage
 
 Each challenge includes:
 
@@ -55,24 +89,30 @@ To solve a challenge:
 
 - Follow the rules and constraints outlined in the challenge's README and test file.
 
-## Contributor Guidelines
+</br>
+
+## 📄 Contributor Guidelines
 
 1. **Add an Exploit Challenge**:
+
    - Create a new folder under `src/exploits/` and `test/exploits/` named `<challenge-name>`.
    - Add your challenge's smart contracts in `src/exploits/<challenge-name>/`.
    - Create a `README.md` file in `src/exploits/<challenge-name>/` detailing the challenge and constraints.
    - Write a corresponding Foundry test in `test/exploits/<challenge-name>/`.
 
 2. **Add a Solidity Challenge**:
+
    - Create a new folder under `src/solidity/` and `test/solidity/` named `<challenge-name>`.
    - Add your challenge's smart contracts in `src/solidity/<challenge-name>/`.
    - Create a `README.md` file in `src/solidity/<challenge-name>/` detailing the challenge and constraints.
    - Write a corresponding Foundry test in `test/solidity/<challenge-name>/`.
 
 3. **Submit a Solution**:
+
    - Drop your solutions in the discussion section of the challenge.
 
 4. **Improve Existing Challenges**:
+
    - Fork the repository and create a new branch.
    - Make improvements or fixes to the existing challenges.
    - Submit a pull request with details about the changes.
@@ -81,10 +121,13 @@ To solve a challenge:
    - Participate in discussions and provide feedback on pull requests.
    - Engage with the community to help refine challenges and solutions.
 
-## Troubleshooting
+</br>
+
+## 🧰 Troubleshooting
 
 For help, visit the [Discussions](https://github.com/passandscore/solidity-challenges/discussions) section.
 
-## Disclaimer
+
+## 🚨 Disclaimer
 
 This repository contains intentionally vulnerable code for educational purposes. **DO NOT USE IN PRODUCTION.**
