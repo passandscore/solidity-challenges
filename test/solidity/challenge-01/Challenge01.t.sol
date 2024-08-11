@@ -27,6 +27,8 @@ contract Solution is Test {
         external
     {
         vm.startPrank(unauthorizedUser);
+        address to = unauthorizedUser;
+        uint256 tokenId = 1;
 
         /**
          * Provide solution here
