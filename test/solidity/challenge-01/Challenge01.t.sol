@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: Unlicensed
 pragma solidity 0.8.25;
 
-import "../../../src/solidity/challenge-01/Challenge01.sol";
+import "src/solidity/challenge-01/Challenge01.sol";
 import "forge-std/Test.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
