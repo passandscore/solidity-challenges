@@ -29,7 +29,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | Type     | Challenge                                                                                                                                                                | Author                                          | Discussion                                                                                  |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Exploit  | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)                                                       | [IzuMan](https://github.com/IzuMan0x)           | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/exploits) |
+| Exploit  | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md)                                                   | [IzuMan](https://github.com/IzuMan0x)           | [View](https://github.com/passandscore/solidity-challenges/discussions/20)                  |
 | Solidity | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
 
 </br>
@@ -39,13 +39,14 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 <details>
 <summary>Exploit Challenges</summary>
 
-| #   | Challenge                                                                                                          | Author                                          |
-| --- | ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 5   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md) | [IzuMan](https://github.com/IzuMan0x)           |
-| 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                | [X_Drained](https://x.com/X_Drained)            |
-| 3   | [Auction](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/auction/README.md)            | scadamsuab                                      |
-| 2   | [Gridlock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/gridlock/README.md)          | [passandscore](https://github.com/passandscore) |
-| 1   | [Etherstore](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/ether-store/README.md)     | [passandscore](https://github.com/passandscore) |
+| #   | Challenge                                                                                                              | Author                                          |
+| --- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 6   | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md) | [IzuMan](https://github.com/IzuMan0x)           |
+| 5   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)     | [IzuMan](https://github.com/IzuMan0x)           |
+| 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                    | [X_Drained](https://x.com/X_Drained)            |
+| 3   | [Auction](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/auction/README.md)                | scadamsuab                                      |
+| 2   | [Gridlock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/gridlock/README.md)              | [passandscore](https://github.com/passandscore) |
+| 1   | [Etherstore](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/ether-store/README.md)         | [passandscore](https://github.com/passandscore) |
 
 </details>
 
@@ -126,7 +127,6 @@ To solve a challenge:
 ## 🧰 Troubleshooting
 
 For help, visit the [Discussions](https://github.com/passandscore/solidity-challenges/discussions) section.
-
 
 ## 🚨 Disclaimer
 
