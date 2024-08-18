@@ -25,7 +25,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 </br>
 
-## 🏆 New Release
+## 🏆 Top Challenge By Category
 
 | Type     | Challenge                                                                                                                  | Author                                          | Discussion                                                                                  |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -34,13 +34,15 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 </br>
 
-## ⏪ Previous Challenges
+## ⏪ All Challenges
 
 <details>
 <summary>Exploit Challenges</summary>
 
 | #   | Challenge                                                                                                              | Author                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 8   | [LuckySpin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md) | [passandscore](https://github.com/passandscore)            |
+| 7   | [FalseStart](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/fasle-start/README.md) | [passandscore](https://github.com/passandscore)            |
 | 6   | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md) | [IzuMan](https://github.com/IzuMan0x)           |
 | 5   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)     | [IzuMan](https://github.com/IzuMan0x)           |
 | 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                    | [X_Drained](https://x.com/X_Drained)            |
