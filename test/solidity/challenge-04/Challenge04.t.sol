@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.25;
 
-import "../../../src/solidity/challenge-04/Challenge04.sol";
+import "src/solidity/challenge-04/Challenge04.sol";
 import "forge-std/Test.sol";
 
 contract SolidityChallenge03 is Test {
