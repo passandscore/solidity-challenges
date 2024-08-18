@@ -17,6 +17,7 @@
 Welcome to the Solidity Challenges Repository, a platform for Solidity developers and security researchers. This repository offers a wide range of challenges, from language-specific tasks to exploit-focused scenarios.
 
 </br>
+</br>
 
 ## 🦶 Choose Your Path
 
@@ -24,8 +25,9 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 - **Solidity**: Test your knowledge with language-specific challenges.
 
 </br>
+</br>
 
-## 🏆 Top Challenge By Category
+## 🏆 Feature Challenge By Category
 
 | Type     | Challenge                                                                                                                  | Author                                          | Discussion                                                                                  |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -33,16 +35,14 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 | Solidity | [Update userOperation ](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-04/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
 
 </br>
+</br>
 
-## ⏪ All Challenges
-
-<details>
-<summary>Exploit Challenges</summary>
+## 🚨 Exploit Challenges
 
 | #   | Challenge                                                                                                              | Author                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 8   | [LuckySpin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md) | [passandscore](https://github.com/passandscore)            |
-| 7   | [FalseStart](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/fasle-start/README.md) | [passandscore](https://github.com/passandscore)            |
+| 8   | [LuckySpin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md)           | [passandscore](https://github.com/passandscore) |
+| 7   | [FalseStart](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/false-start/README.md)         | [passandscore](https://github.com/passandscore) |
 | 6   | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md) | [IzuMan](https://github.com/IzuMan0x)           |
 | 5   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)     | [IzuMan](https://github.com/IzuMan0x)           |
 | 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                    | [X_Drained](https://x.com/X_Drained)            |
@@ -50,10 +50,10 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 | 2   | [Gridlock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/gridlock/README.md)              | [passandscore](https://github.com/passandscore) |
 | 1   | [Etherstore](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/ether-store/README.md)         | [passandscore](https://github.com/passandscore) |
 
-</details>
+</br>
+</br>
 
-<details>
-<summary>Solidity Challenges</summary>
+## 🚨 Solidity Challenges
 
 | #   | Challenge                                                                                                                                                                   | Author                                          |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
@@ -64,6 +64,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 </details>
 
+</br>
 </br>
 
 ## 🚀 Installation
