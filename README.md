@@ -27,10 +27,10 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 ## 🏆 New Release
 
-| Type     | Challenge                                                                                                                                                                | Author                                          | Discussion                                                                                  |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Exploit  | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md)                                                   | [IzuMan](https://github.com/IzuMan0x)           | [View](https://github.com/passandscore/solidity-challenges/discussions/20)                  |
-| Solidity | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
+| Type     | Challenge                                                                                                                  | Author                                          | Discussion                                                                                  |
+| -------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Exploit  | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md)     | [IzuMan](https://github.com/IzuMan0x)           | [View](https://github.com/passandscore/solidity-challenges/discussions/20)                  |
+| Solidity | [Update userOperation ](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-04/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
 
 </br>
 
@@ -55,6 +55,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | #   | Challenge                                                                                                                                                                   | Author                                          |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 4   | [Update userOperation ](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-04/README.md)                                                  | [passandscore](https://github.com/passandscore) |
 | 3   | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md)    | [passandscore](https://github.com/passandscore) |
 | 2   | [Ensure secure randomness in this lottery contract](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-02/README.md)                      | [codyrhoten](https://github.com/codyrhoten)     |
 | 1   | [The test should revert when attempting to mint as an unauthorized user](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-01/README.md) | [passandscore](https://github.com/passandscore) |
