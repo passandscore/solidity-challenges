@@ -27,7 +27,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 </br>
 </br>
 
-## 🏆 Feature Challenge By Category
+## 🏆 Feature Challenges
 
 | Type     | Challenge                                                                                                                  | Author                                          | Discussion                                                                                  |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
