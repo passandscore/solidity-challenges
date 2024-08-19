@@ -41,6 +41,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | #   | Challenge                                                                                                              | Author                                          |
 | --- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 9   | [Mimic](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/mimic/README.md)                    | [passandscore](https://github.com/passandscore) |
 | 8   | [LuckySpin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md)           | [passandscore](https://github.com/passandscore) |
 | 7   | [FalseStart](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/false-start/README.md)         | [passandscore](https://github.com/passandscore) |
 | 6   | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md) | [IzuMan](https://github.com/IzuMan0x)           |
