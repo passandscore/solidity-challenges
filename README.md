@@ -39,17 +39,18 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 ## 🚨 Exploit Challenges
 
-| #   | Challenge                                                                                                              | Author                                          |
-| --- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 9   | [Mimic](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/mimic/README.md)                    | [passandscore](https://github.com/passandscore) |
-| 8   | [LuckySpin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md)           | [passandscore](https://github.com/passandscore) |
-| 7   | [FalseStart](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/false-start/README.md)         | [passandscore](https://github.com/passandscore) |
-| 6   | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md) | [IzuMan](https://github.com/IzuMan0x)           |
-| 5   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)     | [IzuMan](https://github.com/IzuMan0x)           |
-| 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                    | [X_Drained](https://x.com/X_Drained)            |
-| 3   | [Auction](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/auction/README.md)                | scadamsuab                                      |
-| 2   | [Gridlock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/gridlock/README.md)              | [passandscore](https://github.com/passandscore) |
-| 1   | [Etherstore](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/ether-store/README.md)         | [passandscore](https://github.com/passandscore) |
+| #   | Challenge                                                                                                                | Author                                          |
+| --- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 10  | [CombinationLock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/combination-lock/README.md) | [passandscore](https://github.com/passandscore) |
+| 9   | [Mimic](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/mimic/README.md)                      | [passandscore](https://github.com/passandscore) |
+| 8   | [LuckySpin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md)             | [passandscore](https://github.com/passandscore) |
+| 7   | [FalseStart](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/false-start/README.md)           | [passandscore](https://github.com/passandscore) |
+| 6   | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md)   | [IzuMan](https://github.com/IzuMan0x)           |
+| 5   | [SherwoodBank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)       | [IzuMan](https://github.com/IzuMan0x)           |
+| 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                      | [X_Drained](https://x.com/X_Drained)            |
+| 3   | [Auction](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/auction/README.md)                  | scadamsuab                                      |
+| 2   | [Gridlock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/gridlock/README.md)                | [passandscore](https://github.com/passandscore) |
+| 1   | [Etherstore](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/ether-store/README.md)           | [passandscore](https://github.com/passandscore) |
 
 </br>
 </br>
