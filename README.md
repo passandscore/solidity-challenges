@@ -31,7 +31,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | Type     | Challenge                                                                                                                  | Author                                          | Discussion                                                                                  |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Exploit  | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md)     | [IzuMan](https://github.com/IzuMan0x)           | [View](https://github.com/passandscore/solidity-challenges/discussions/20)                  |
+| Exploit  | [Auction](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/auction/README.md)     | scadamsuab          | [View](https://github.com/passandscore/solidity-challenges/discussions/9)                  |
 | Solidity | [Update userOperation ](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-04/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
 
 </br>
@@ -41,6 +41,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | #   | Challenge                                                                                                                | Author                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 11  | [Sideline](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sideline/README.md) | [passandscore](https://github.com/passandscore) |
 | 10  | [Combination Lock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/combination-lock/README.md) | [passandscore](https://github.com/passandscore) |
 | 9   | [Mimic](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/mimic/README.md)                      | [passandscore](https://github.com/passandscore) |
 | 8   | [Lucky Spin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md)             | [passandscore](https://github.com/passandscore) |
