@@ -41,7 +41,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | #   | Challenge                                                                                                                | Author                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| 12  | [PrivateTreasure](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/private-treasure/README.md) | [passandscore](https://github.com/passandscore) |
+| 12  | [Private Treasure](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/private-treasure/README.md) | [passandscore](https://github.com/passandscore) |
 | 11  | [Sideline](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sideline/README.md) | [passandscore](https://github.com/passandscore) |
 | 10  | [Combination Lock](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/combination-lock/README.md) | [passandscore](https://github.com/passandscore) |
 | 9   | [Mimic](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/mimic/README.md)                      | [passandscore](https://github.com/passandscore) |
