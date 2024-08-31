@@ -48,7 +48,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 | 9   | [Mimic](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/mimic/README.md)                      | [passandscore](https://github.com/passandscore) |
 | 8   | [Lucky Spin](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/lucky-spin/README.md)             | [passandscore](https://github.com/passandscore) |
 | 7   | [False Start](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/false-start/README.md)           | [passandscore](https://github.com/passandscore) |
-| 6   | [ER20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md)   | [IzuMan](https://github.com/IzuMan0x)           |
+| 6   | [ERC20 Vault Exploit](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/erc20-vault/README.md)   | [IzuMan](https://github.com/IzuMan0x)           |
 | 5   | [Sherwood Bank](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/sherwood-bank/README.md)       | [IzuMan](https://github.com/IzuMan0x)           |
 | 4   | [Steal](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/steal/README.md)                      | [X_Drained](https://x.com/X_Drained)            |
 | 3   | [Auction](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/auction/README.md)                  | scadamsuab                                      |
