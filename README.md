@@ -41,6 +41,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | #   | Challenge                                                                                                                | Author                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| 16  | [Weighted Voting](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/weighted-voting/README.md) | [ZCalz](https://github.com/ZCalz) |
 | 15  | [Succession](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/succession/README.md) | [passandscore](https://github.com/passandscore) |
 | 14  | [Airdrop](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/airdrop/README.md) | [PutraLaksmana](https://github.com/PutraLaksmana) |
 | 13  | [Instigator](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/instigator/README.md) | [passandscore](https://github.com/passandscore) |
