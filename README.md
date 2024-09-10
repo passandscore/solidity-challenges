@@ -32,7 +32,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 | Type     | Challenge                                                                                                                  | Author                                          | Discussion                                                                                  |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | Exploit  | [Airdrop](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/airdrop/README.md)     | [PutraLaksmana](https://github.com/PutraLaksmana)          | [View](https://github.com/passandscore/solidity-challenges/discussions/38)                  |
-| Solidity | [Update userOperation ](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-04/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
+| Solidity | [Correct writeMyData](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-05/README.md)                                                  | [vicsnet](https://github.com/vicsnet)  | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
 
 </br>
 </br>
