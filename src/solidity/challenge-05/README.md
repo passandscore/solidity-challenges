@@ -8,4 +8,4 @@
 **Constraints**:
 - Do not touch function `getMyData`
 
-**Author**: [vicsnet](https://github.cocm/vicsnet)
+**Author**: [vicsnet](https://github.com/vicsnet)

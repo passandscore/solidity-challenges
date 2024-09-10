@@ -64,7 +64,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | #   | Challenge                                                                                                                                                                   | Author                                          |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 5   | [Correct writeMyData](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-05/README.md)                                                  | [vicsnet](https://github.cocm/vicsnet) |
+| 5   | [Correct writeMyData](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-05/README.md)                                                  | [vicsnet](https://github.com/vicsnet) |
 | 4   | [Update userOperation ](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-04/README.md)                                                  | [passandscore](https://github.com/passandscore) |
 | 3   | [Parse the given bytes to return both the function selector and data](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-03/README.md)    | [passandscore](https://github.com/passandscore) |
 | 2   | [Ensure secure randomness in this lottery contract](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-02/README.md)                      | [codyrhoten](https://github.com/codyrhoten)     |
