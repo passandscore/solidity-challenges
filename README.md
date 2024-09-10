@@ -31,7 +31,7 @@ Welcome to the Solidity Challenges Repository, a platform for Solidity developer
 
 | Type     | Challenge                                                                                                                  | Author                                          | Discussion                                                                                  |
 | -------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| Airdrop  | [Airdrop](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/airdrop/README.md)     | [PutraLaksmana](https://github.com/PutraLaksmana)          | [View](https://github.com/passandscore/solidity-challenges/discussions/38)                  |
+| Exploit  | [Airdrop](https://github.com/passandscore/solidity-challenges/blob/main/src/exploits/airdrop/README.md)     | [PutraLaksmana](https://github.com/PutraLaksmana)          | [View](https://github.com/passandscore/solidity-challenges/discussions/38)                  |
 | Solidity | [Update userOperation ](https://github.com/passandscore/solidity-challenges/blob/main/src/solidity/challenge-04/README.md) | [passandscore](https://github.com/passandscore) | [View](https://github.com/passandscore/solidity-challenges/discussions/categories/solidity) |
 
 </br>
