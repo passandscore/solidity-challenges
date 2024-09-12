@@ -1,6 +1,6 @@
 # Challenge 06
 
-Users are reporting that when they create multiple games, the `gameCount` is not being updated correctly.
+Users are reporting that when they create multiple games, the game count is not being updated correctly.
 
 **Task**:
 - Investigate the issue and fix the bug.
